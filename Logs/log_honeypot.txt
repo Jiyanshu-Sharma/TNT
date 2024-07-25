@@ -1,0 +1,28 @@
+#################### Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 22 (Mon Jul 22 23:24:53 2024)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.137.249:38672 (Mon Jul 22 23:25:10 2024)
+ -----------------------------
+SSH-2.0-OpenSSH_9.7p1 Debian-7
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.137.249:35894 (Mon Jul 22 23:28:45 2024)
+ -----------------------------
+SSH-2.0-OpenSSH_9.7p1 Debian-7
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.137.249:37182 (Mon Jul 22 23:29:47 2024)
+ -----------------------------
+SSH-2.0-OpenSSH_9.7p1 Debian-7
+
+#################### Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 22 (Mon Jul 22 23:33:05 2024)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.137.249:33654 (Mon Jul 22 23:35:22 2024)
+ -----------------------------
+SSH-2.0-OpenSSH_9.7p1 Debian-7
+
